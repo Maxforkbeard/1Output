@@ -1,8 +1,8 @@
-word1 = "To"
-word2 = "Whether"
-word3 = "The"
-word4 = "Or"
-word5 = "And"
+word1 = "To" *3
+word2 = "Whether" *3
+word3 = "The" *3
+word4 = "Or" *3
+word5 = "And" *3
 
 print(word1 +" be, or not ot be: that is the question:")
 print(word2 +" 'tis nobler in the mind of suffer")
